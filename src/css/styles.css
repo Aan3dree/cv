@@ -1,0 +1,95 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F2F2F2;
+}
+
+.hero {
+    text-align: center;
+    margin-top: 0;
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 50px;
+}
+
+.pic-container {}
+
+.picture {}
+
+.title {
+    margin-top: 40px;
+
+}
+
+.contact {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.education-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.work-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.skills-container1 {
+    margin-top: 20px;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.skills-level1 {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.skills-container2 {
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 50px;
+    padding-right: 10px;
+}
+
+.skills-level2 {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.skills-container3 {
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 50px;
+    padding-right: 10px;
+}
+
+.skills-level3 {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.skills1 {
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+.skills2 {
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine;
+    display: inline-block;
+}
